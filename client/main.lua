@@ -19,7 +19,6 @@ CreateThread(function()
     end
 end)
 
--- Rejestracja menu głównego Lombardu
 CreateThread(function()
   lib.registerContext({
       id = 'DP:LombardMenu',
@@ -40,7 +39,6 @@ CreateThread(function()
       }
   })
 
-  -- Rejestracja menu zakupu
   lib.registerContext({
       id = 'DP:LombardZakupMenu',
       title = 'Oferta Zakupu',
@@ -67,7 +65,6 @@ CreateThread(function()
       }
   })
 
-  -- Menu dla Pistoletu
   lib.registerContext({
       id = 'pistol_menu',
       title = 'Oferta - Pistolet',
@@ -87,7 +84,6 @@ CreateThread(function()
       }
   })
 
-  -- Menu dla Wytrychu
   lib.registerContext({
       id = 'wytrych_menu',
       title = 'Oferta - Wytrych',
@@ -107,7 +103,6 @@ CreateThread(function()
       }
   })
 
-  -- Menu dla Telefonu
   lib.registerContext({
       id = 'phone_menu',
       title = 'Oferta - Telefon',
@@ -127,7 +122,6 @@ CreateThread(function()
       }
   })
 
-  -- Rejestracja menu sprzedaży
   lib.registerContext({
       id = 'DP:LombardSprzedajMenu',
       title = 'Oferta Sprzedaży',
@@ -154,7 +148,6 @@ CreateThread(function()
       }
   })
 
-  -- Menu dla Złota
   lib.registerContext({
       id = 'zloto_menu',
       title = 'Sprzedaż - Złoto',
@@ -173,7 +166,6 @@ CreateThread(function()
       }
   })
 
-  -- Menu dla Naszyjnika
   lib.registerContext({
       id = 'chain_menu',
       title = 'Sprzedaż - Naszyjnik',
@@ -192,7 +184,6 @@ CreateThread(function()
       }
   })
 
-  -- Menu dla Diamentu
   lib.registerContext({
       id = 'diament_menu',
       title = 'Sprzedaż - Diament',

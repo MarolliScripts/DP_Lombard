@@ -1,5 +1,5 @@
 # Lombard - Opis:
-Prosty skrypt na lombard. Napisany na szybko, mozecie sie pobawic. Zrobiłem prosty Config, podpisałem wam co i jak.  Jak masz jakieś pytania to śmiało podbijaj na discordzie :D
+Prosty skrypt na lombard. Napisany na szybko, mozecie sie pobawic. Zrobiłem prosty Config, podpisałem wam co i jak.  Jeśli masz jakieś pytania to śmiało podbijaj na discordzie :D
 
 # Wymagania:
 - **ox_lib**
